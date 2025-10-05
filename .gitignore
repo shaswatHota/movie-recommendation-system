@@ -5,9 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
+*.pkl
 
 # Virtual environments
 .venv
-*.pkl
+
 
 artifacts/
+
+.env
